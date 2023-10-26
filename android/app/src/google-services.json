@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089747804469",
+    "project_id": "nnn-app-dc799",
+    "storage_bucket": "nnn-app-dc799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089747804469:android:239557bf9cf68d9a6dac7c",
+        "android_client_info": {
+          "package_name": "com.nnntoday.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089747804469-rfglu5gpri78mhtmllv4ppg2jr3s4p1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb22-15nFhc9fdlqW6qpRp1bWStFAIX0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089747804469-rfglu5gpri78mhtmllv4ppg2jr3s4p1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
